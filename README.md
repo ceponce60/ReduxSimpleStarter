@@ -21,7 +21,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
     > yea, dont download zip...
 ```
 
-####NOTES:#####
+####Notes:#####
 ```
     > html2,3 are designed to prototype foundation application.
 ```
