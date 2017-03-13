@@ -17,4 +17,6 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 ```
 
 ####Not Familiar with Git?#####
-yea, dont download zip...
+```
+    yea, dont download zip...
+```
